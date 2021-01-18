@@ -1,12 +1,13 @@
 * He/Him
-* Bird Person 🐦
-* SoyBoy™️
+* Certified SoyBoy®
+* 🏳️‍🌈
 
-### The Encyclopedia of Jerome 👋
+### The Encyclopedia of Me 👋
 
-I’m a developer with a colourful background in arts and technology. This gives me some unique input on both sides of the creative/technical equation. At my core, I am an engineering obsessive and I love learning how things work.
+I’m a developer with a colourful background in arts and technology. This gives me some unique input on both sides of the creative/technical equation. 
+At my core, I am an engineering obsessive and I love learning how things work.
 
-Co-organizer of [@leicesterjs](https://twitter.com/leicesterjs)
+I love writing little dumb tools and exploring programming meta through new languages. 
 
 #### Facts
 ```json
